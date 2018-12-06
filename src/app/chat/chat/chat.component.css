@@ -1,0 +1,44 @@
+.sidebar{
+    background: rgb(74, 93, 145);
+    color: white;
+}
+.navbar{
+    background: rgb(101, 110, 168);
+}
+.sidebar .user-info .all{
+    border-bottom: none !important;
+}
+.theme-purple section.content:before{
+    background: white !important;
+}
+
+section.content {
+    height: 90vh;
+    overflow: hidden;
+}
+.message-text {
+    position:fixed;
+    bottom:50px;
+    width: 79%;
+   }
+   .imagess{
+       border-radius:50%;
+       border:3px solid white;
+   }
+   .padtop{
+       margin-top: -15px;
+   }
+   .zimdss{
+    margin-left: 20px;
+   }
+
+  .floatbottom{
+    position: fixed;
+    bottom: 0;
+   
+   }
+.card-body{
+    height: 76vh;
+    overflow: auto;
+    overflow-x: hidden;
+}
